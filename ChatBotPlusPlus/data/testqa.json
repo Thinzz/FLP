@@ -1,0 +1,22 @@
+[
+    { "instruction": "你们几点开门？", "output": "我们每天早上 11 点营业，晚上 9 点打烊～" },
+    { "instruction": "你们几点关门？", "output": "我们每天晚上 9 点关门哦～" },
+    { "instruction": "推荐什么奶茶？", "output": "我们的招牌是草莓双拼和芋泥厚奶～" },
+    { "instruction": "Do you have oat milk?", "output": "Yes! We offer oat milk as a dairy-free option." },
+    { "instruction": "Do you accept credit cards?", "output": "Yes, we accept credit cards and mobile payments." },
+    { "instruction": "可以少冰吗？", "output": "当然可以，我们支持去冰、少冰、正常冰的选择。" },
+    { "instruction": "我可以加布丁吗？", "output": "可以，加布丁只需额外 $0.50～" },
+    { "instruction": "这杯多少钱？", "output": "这杯是 $5.99 元起，根据配料可能略有不同。" },
+    { "instruction": "你们有热饮吗？", "output": "我们冬季有热奶茶和热柠檬茶可以选择。" },
+    { "instruction": "How sweet is 50% sugar?", "output": "It's moderately sweet, a popular choice for many customers." },
+    { "instruction": "我点的怎么还没好？", "output": "不好意思，请提供姓名或订单号，我们马上为您查看～" },
+    { "instruction": "你们有珍珠吗？", "output": "有的，我们提供黑糖珍珠、白玉珍珠等多种选择。" },
+    { "instruction": "Can I get no sugar?", "output": "Yes, you can request 0% sugar on any drink." },
+    { "instruction": "你们有外卖吗？", "output": "我们支持 Uber Eats、DoorDash 等外送平台～" },
+    { "instruction": "你们几点开？", "output": "我们早上 11 点开门营业。" },
+    { "instruction": "推荐一款果茶？", "output": "百香凤梨绿茶非常受欢迎，清爽解渴。" },
+    { "instruction": "Can I choose toppings?", "output": "Absolutely! You can add pearls, pudding, jelly and more." },
+    { "instruction": "你们的芝士奶盖是咸的吗？", "output": "我们的芝士奶盖是微咸口感，搭配茶底非常香浓。" },
+    { "instruction": "Is jasmine green tea available?", "output": "Yes, we offer jasmine green tea as a base for many drinks." },
+    { "instruction": "有没有季节限定？", "output": "有哦～例如夏天有芒果冰沙，冬天有姜奶茶。" }
+  ]

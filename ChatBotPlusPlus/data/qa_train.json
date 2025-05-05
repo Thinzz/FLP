@@ -1,0 +1,15 @@
+[
+    { "text": "你们几点关门?<|endoftext|>我们晚上8点关门！"},
+    { "text": "What time is your store close?<|endoftext|>We close at 8:00pm."},
+    { "text": "你们用的都是什么奶?<|endoftext|>我们用的都是纯牛奶。"},
+    { "text": "What kind of milk do you use?<|endoftext|>We use fresh whole milk."},
+    { "text": "你们几点开门?<|endoftext|>我们每天开门12am - 8pm。"},
+    { "text": "What time do you open?<|endoftext|>We open everyday 12am to 8pm."},
+    { "text": "你们可以换成什么奶?<|endoftext|>我们有没有乳糖的奶。"},
+    { "text": "What kind of milk can you switch to?<|endoftext|>We have lactose milk."},
+    { "text": "你们有没有咖啡因的饮料吗?<|endoftext|>我们的黑糖珍珠牛奶没有咖啡因，大部分冰沙系列没有咖啡因除了葡萄跟西瓜系列。还有我们的开冲奶茶系列都是没有咖啡因的。"},
+    { "text": "Do you have any caffeinated drink?<|endoftext|>Our Brown Sugar Milk is caffeine free, and most of our smoothie series is caffeine free except for our Grape and Watermelon. And our quick milk tea series are caffeine free as well."},    
+    { "text": "什么是双拼杯?<|endoftext|>我们的双拼就是一个杯子可以有两个不一样的口味，就是例如一半是水果茶一半是奶茶，就是两个口味自己选择在一个杯子里面。"},
+    { "text": "What is Duet tea cup?<|endoftext|>Our Duet tea is a cup that can have two different flavors, for example, half fruit tea and half milk tea, and two flavors of their own choice inside a cup."}
+    
+]
